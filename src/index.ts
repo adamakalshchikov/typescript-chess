@@ -44,14 +44,14 @@ export class Game {
       new Pawn('White', 'B', 6),
       new Pawn('White', 'B', 7),
       new Pawn('White', 'B', 8),
-      new Pawn('Black', 'F', 1),
-      new Pawn('Black', 'F', 2),
-      new Pawn('Black', 'F', 3),
-      new Pawn('Black', 'F', 4),
-      new Pawn('Black', 'F', 5),
-      new Pawn('Black', 'F', 6),
-      new Pawn('Black', 'F', 7),
-      new Pawn('Black', 'F', 8),
+      new Pawn('Black', 'G', 1),
+      new Pawn('Black', 'G', 2),
+      new Pawn('Black', 'G', 3),
+      new Pawn('Black', 'G', 4),
+      new Pawn('Black', 'G', 5),
+      new Pawn('Black', 'G', 6),
+      new Pawn('Black', 'G', 7),
+      new Pawn('Black', 'G', 8),
     ]
   }
 }
